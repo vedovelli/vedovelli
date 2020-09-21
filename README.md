@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-## 🚀
+O curso "Aprenda a Testar Aplicações Javascript" já foi lançado!
+
+## www.javascript.tv.br
+
+# 🚀
 
 <!--
 **vedovelli/vedovelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
